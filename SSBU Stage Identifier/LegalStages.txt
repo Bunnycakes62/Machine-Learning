@@ -1,0 +1,16 @@
+Date: 10/29/19
+Description: In Super Smash Bros. Ultimate, there are only ten stages allowed in tournaments.
+The following is a complete list of allowable stages:
+
+Battlefield
+Final Destination
+Pokemon Stadium 2
+Smashville
+Town and City
+Yoshi's Story
+Yoshi's Island
+Lylat Cruise
+Unova Pokemon League
+Kalos Pokemon League
+
+I am combining Smashville and Town and City since they are too similar for me to tell them apart.
